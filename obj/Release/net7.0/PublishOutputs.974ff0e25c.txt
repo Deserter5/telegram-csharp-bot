@@ -1,0 +1,15 @@
+D:\Wuwa\MyTelegramBot\publish\MyTelegramBot.exe
+D:\Wuwa\MyTelegramBot\publish\MyTelegramBot.dll
+D:\Wuwa\MyTelegramBot\publish\MyTelegramBot.deps.json
+D:\Wuwa\MyTelegramBot\publish\MyTelegramBot.runtimeconfig.json
+D:\Wuwa\MyTelegramBot\publish\MyTelegramBot.pdb
+D:\Wuwa\MyTelegramBot\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Wuwa\MyTelegramBot\publish\Microsoft.Extensions.Configuration.Binder.dll
+D:\Wuwa\MyTelegramBot\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Wuwa\MyTelegramBot\publish\Microsoft.Extensions.Options.dll
+D:\Wuwa\MyTelegramBot\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Wuwa\MyTelegramBot\publish\Microsoft.Extensions.Primitives.dll
+D:\Wuwa\MyTelegramBot\publish\System.Text.Encodings.Web.dll
+D:\Wuwa\MyTelegramBot\publish\System.Text.Json.dll
+D:\Wuwa\MyTelegramBot\publish\Telegram.Bot.dll
+D:\Wuwa\MyTelegramBot\publish\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll

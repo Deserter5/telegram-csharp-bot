@@ -1,0 +1,6 @@
+D:\Wuwa\MyTelegramBot\obj\Debug\net7.0\MyTelegramBot.csproj.AssemblyReference.cache
+D:\Wuwa\MyTelegramBot\obj\Debug\net7.0\MyTelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wuwa\MyTelegramBot\obj\Debug\net7.0\MyTelegramBot.AssemblyInfoInputs.cache
+D:\Wuwa\MyTelegramBot\obj\Debug\net7.0\MyTelegramBot.AssemblyInfo.cs
+D:\Wuwa\MyTelegramBot\obj\Debug\net7.0\MyTelegramBot.csproj.CoreCompileInputs.cache
+D:\Wuwa\MyTelegramBot\obj\Debug\net7.0\MyTelegramBot.sourcelink.json
